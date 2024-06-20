@@ -11,7 +11,7 @@
 - <b>[Prediction of hotel booking cancellations](https://github.com/hamidnakhaei/hotel_booking_cancelation_prediction)</b>
 - <b>[Earning Manipulation Detection](https://github.com/hamidnakhaei/earning_manipulation_detection-)</b>
 
-<h2>👨‍💻 Time series analysis:</h2>
+<h2>👨‍💻 Time Series Analysis:</h2>
 
 - <b>[Electricity Demand Forecasting](https://github.com/hamidnakhaei/electricity_demand_forecasting_Holt-Winters_ARIMA)</b>
 
