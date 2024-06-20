@@ -10,7 +10,6 @@
 
 - <b>[Prediction of hotel booking cancellations](https://github.com/hamidnakhaei/hotel_booking_cancelation_prediction)</b>
 - <b>[Earning Manipulation Detection](https://github.com/hamidnakhaei/earning_manipulation_detection-)</b>
-- <b>[Infectious Diseases Population Dynamics](https://github.com/hamidnakhaei/infectious_diseases_population_dynamics)</b>
 
 <h2>👨‍💻 Time series analysis:</h2>
 
