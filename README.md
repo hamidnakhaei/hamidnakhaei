@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hamid! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Hamid!
 
 <h2>👨‍💻 Healthcare Projects:</h2>
 
@@ -6,19 +6,24 @@
 - <b>[Pima Indian Diabetes Prediction](https://github.com/hamidnakhaei/Pima_Indian_diabetes_prediction)</b>
 - <b>[Infectious Diseases Population Dynamics](https://github.com/hamidnakhaei/infectious_diseases_population_dynamics)</b>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
+- <b>[Prediction of hotel booking cancellations](https://github.com/hamidnakhaei/hotel_booking_cancelation_prediction)</b>
+- <b>[Earning Manipulation Detection](https://github.com/hamidnakhaei/earning_manipulation_detection-)</b>
 - <b>[Infectious Diseases Population Dynamics](https://github.com/hamidnakhaei/infectious_diseases_population_dynamics)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>👨‍💻 Time series analysis:</h2>
+
+- <b>[Electricity Demand Forecasting](https://github.com/hamidnakhaei/electricity_demand_forecasting_Holt-Winters_ARIMA)</b>
+
+<h2>📺 Machine Learning Projects:</h2>
+
+- <b>Neural Network</b>
+  - [Tourism Demand Forecasting](https://github.com/hamidnakhaei/tourism_demand_forecasting_neural_network-)
+  - [Mass-Spring-Damper System Controller](https://github.com/hamidnakhaei/mass-spring-damper_position_controller_using_neural_network)
+- <b>Translations</b>
+  - [Deep Learning With Keras Translation to Persian](https://github.com/hamidnakhaei/deep_learning_with_keras_translation_to_Persian)
+  - [Practical Deep Learning: A Python-Based Introduction Translation to Persian](https://github.com/hamidnakhaei/practical_deep_learning_a_python-based_introduction_translation_to_Persian)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -33,7 +38,7 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
