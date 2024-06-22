@@ -5,6 +5,7 @@
 - <b>[Daily Surgery Demand Forecasting in an Operating Room](https://github.com/hamidnakhaei/daily_surgery_demand_forecasting)</b>
 - <b>[Pima Indian Diabetes Prediction](https://github.com/hamidnakhaei/Pima_Indian_diabetes_prediction)</b>
 - <b>[Infectious Diseases Population Dynamics](https://github.com/hamidnakhaei/blood_inventory_management_simulation)</b>
+- <b>[Blood Inventory Management Simulation](https://github.com/hamidnakhaei/blood_inventory_management_simulation)</b>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
