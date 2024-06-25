@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hamid!
 
-<h2>👨‍💻 Healthcare Projects:</h2>
+<h2>🏥 Healthcare Projects:</h2>
 
 - <b>[Daily Surgery Demand Forecasting in an Operating Room](https://github.com/hamidnakhaei/daily_surgery_demand_forecasting)</b>
 - <b>[Blood Inventory Management Simulation](https://github.com/hamidnakhaei/blood_inventory_management_simulation)</b>
@@ -12,11 +12,11 @@
 - <b>[Prediction of hotel booking cancellations](https://github.com/hamidnakhaei/hotel_booking_cancelation_prediction)</b>
 - <b>[Earning Manipulation Detection](https://github.com/hamidnakhaei/earning_manipulation_detection-)</b>
 
-<h2>👨‍💻 Time Series Analysis:</h2>
+<h2>📈📉 Time Series Analysis:</h2>
 
 - <b>[Electricity Demand Forecasting](https://github.com/hamidnakhaei/electricity_demand_forecasting_Holt-Winters_ARIMA)</b>
 
-<h2>📺 Machine Learning Projects:</h2>
+<h2>🤖 Machine Learning Projects:</h2>
 
 - <b>Neural Network</b>
   - [Tourism Demand Forecasting](https://github.com/hamidnakhaei/tourism_demand_forecasting_neural_network-)
