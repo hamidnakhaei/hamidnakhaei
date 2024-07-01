@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>[Prediction of hotel booking cancellations](https://github.com/hamidnakhaei/hotel_booking_cancelation_prediction)</b>
+- <b>[Prediction of Hotel Booking Cancellations](https://github.com/hamidnakhaei/hotel_booking_cancelation_prediction)</b>
 - <b>[Earning Manipulation Detection](https://github.com/hamidnakhaei/earning_manipulation_detection-)</b>
 
 <h2>📈📉 Time Series Analysis:</h2>
